@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Yahya
 
-**Cybersecurity Enthusiast | Game Developer | Full-Stack Developer**
+**Cybersecurity Enthusiast | Cloud Practitioner | Full-Stack Developer**
 
 Welcome to my GitHub! I'm passionate about building secure applications, creating engaging games, and exploring the intersection of cybersecurity and software development.
 
