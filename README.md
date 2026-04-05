@@ -1,4 +1,120 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Yahya
+
+**Cybersecurity Enthusiast | Game Developer | Full-Stack Developer**
+
+Welcome to my GitHub! I'm passionate about building secure applications, creating engaging games, and exploring the intersection of cybersecurity and software development.
+
+---
+
+## 🚀 What I Do
+
+- 🔒 **Cybersecurity** - Developing security tools and analyzing vulnerabilities
+- 🎮 **Game Development** - Building interactive experiences with C++ and game engines
+- 💻 **Software Development** - Creating practical tools and solutions
+- 📚 **Security Education** - Sharing knowledge through detailed documentation
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Tools & Frameworks:**  
+![SFML](https://img.shields.io/badge/-SFML-028C3A?style=flat&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+
+**Specializations:**  
+- Network Security & Penetration Testing
+- Game Development & OOP
+- Secret Detection & Code Analysis
+- Cybersecurity Tools Development
+
+---
+
+## 📌 Featured Projects
+
+### 🎮 [Cuphead-Inspired Game](https://github.com/MuhammadYahya001/Cuphead-Game)
+A full-featured run-and-gun platformer built with C++ and SFML, showcasing advanced OOP concepts and game mechanics.
+
+**Highlights:**
+- Complex boss fight AI with multiple phases
+- Parry mechanics and card system
+- Dynamic enemy spawning
+- Hand-drawn 2D sprite animations
+
+**Tech:** C++, SFML, OOP Design Patterns
+
+---
+
+### 🔐 [Code Secret Finder](https://github.com/MuhammadYahya001/code-secret-finder)
+A Python-based cybersecurity tool that detects exposed secrets (API keys, tokens, passwords) in source files.
+
+**Highlights:**
+- Folder and single-file scanning
+- Colorful output with `rich` library
+- JSON export for analysis
+- Lightweight and production-ready
+
+**Tech:** Python, Security Analysis, CLI Tools
+
+---
+
+### 📖 [Kali Linux Toolkit Notes](https://github.com/MuhammadYahya001/kali-linux-toolkit-notes)
+Comprehensive, beginner-friendly documentation of Kali Linux cybersecurity tools with real-world examples.
+
+**Highlights:**
+- Nmap, Wireshark, Burp Suite tutorials
+- Practical security testing scenarios
+- Student-focused explanations
+- Growing resource library
+
+**Tech:** Documentation, Cybersecurity Tools, Education
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadYahya001&show_icons=true&theme=dark&hide_border=true)](https://github.com/MuhammadYahya001)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYahya001&layout=compact&theme=dark&hide_border=true)](https://github.com/MuhammadYahya001)
+
+---
+
+## 🎯 Currently Working On
+
+- 🔭 Expanding cybersecurity tool collection
+- 🌱 Exploring advanced game development techniques
+- 💡 Contributing to open-source security projects
+- 📝 Growing educational resources for aspiring developers
+
+---
+
+## 💬 Let's Connect
+
+I'm always interested in discussing cybersecurity, game development, and innovative software solutions!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-yahya-jan-03b344325)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muhammadyahyajan001@gmail.com)
+
+---
+
+## 📈 My Goals
+
+- Build industry-standard security tools
+- Create engaging educational content
+- Collaborate on open-source projects
+- Master game development at scale
+
+---
+
+**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!** 🚀
+
 
 <!--
 **MuhammadYahya001/MuhammadYahya001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
