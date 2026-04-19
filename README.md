@@ -8,16 +8,6 @@ Welcome to my GitHub! I'm passionate about building secure applications, creatin
 
 ---
 
-## 🌐 My Website
-
-> **Check out my personal portfolio for a full showcase of my projects, skills, and background.**
-
-[![Visit Portfolio](https://img.shields.io/static/v1?label=%F0%9F%8C%90%20Portfolio&message=muhammadyahya-portfolio.vercel.app&color=cyan&style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadyahya-portfolio.vercel.app/)
-
-Built with **React + Vite + Tailwind CSS** and deployed on **Vercel** — featuring projects, skills, and a hacker-style terminal card.
-
----
-
 ## 🚀 What I Do
 
 - 🔒 **Cybersecurity** - Developing security tools and analyzing vulnerabilities
