@@ -2,7 +2,7 @@
 
 **Cybersecurity Enthusiast | Cloud Practitioner | Full-Stack Developer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-cyan?style=flat-square&logo=netlify)](https://muhammadyahyajan.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-cyan?style=flat-square&logo=vercel)](https://muhammadyahya-portfolio.vercel.app/)
 
 Welcome to my GitHub! I'm passionate about building secure applications, creating engaging games, and exploring the intersection of cybersecurity and software development.
 
@@ -12,9 +12,9 @@ Welcome to my GitHub! I'm passionate about building secure applications, creatin
 
 > **Check out my personal portfolio for a full showcase of my projects, skills, and background.**
 
-[![Visit Portfolio](https://img.shields.io/badge/🌐%20muhammadyahyajan.netlify.app-Visit%20Now-cyan?style=for-the-badge&logo=netlify&logoColor=white)](https://muhammadyahyajan.netlify.app/)
+[![Visit Portfolio](https://img.shields.io/static/v1?label=%F0%9F%8C%90%20Portfolio&message=muhammadyahya-portfolio.vercel.app&color=cyan&style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadyahya-portfolio.vercel.app/)
 
-Built with **React + Vite + Tailwind CSS** and deployed on **Netlify** — featuring projects, skills, and a hacker-style terminal card.
+Built with **React + Vite + Tailwind CSS** and deployed on **Vercel** — featuring projects, skills, and a hacker-style terminal card.
 
 ---
 
@@ -110,7 +110,7 @@ Comprehensive, beginner-friendly documentation of Kali Linux cybersecurity tools
 
 I'm always interested in discussing cybersecurity, game development, and innovative software solutions!
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00C7B7?style=flat&logo=netlify&logoColor=white)](https://muhammadyahyajan.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00C7B7?style=flat&logo=vercel&logoColor=white)](https://muhammadyahya-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-yahya-jan-03b344325)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muhammadyahyajan001@gmail.com)
