@@ -3,7 +3,6 @@
 **Cybersecurity Enthusiast | Cloud Practitioner | Full-Stack Developer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-cyan?style=flat-square&logo=netlify)](https://muhammadyahyajan.netlify.app/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5cf116bc-e960-4929-95c2-f7af93e2e194/deploy-status)](https://app.netlify.com/projects/muhammadyahyajan/deploys)
 
 Welcome to my GitHub! I'm passionate about building secure applications, creating engaging games, and exploring the intersection of cybersecurity and software development.
 
