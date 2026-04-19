@@ -2,7 +2,20 @@
 
 **Cybersecurity Enthusiast | Cloud Practitioner | Full-Stack Developer**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-cyan?style=flat-square&logo=netlify)](https://muhammadyahyajan.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5cf116bc-e960-4929-95c2-f7af93e2e194/deploy-status)](https://app.netlify.com/projects/muhammadyahyajan/deploys)
+
 Welcome to my GitHub! I'm passionate about building secure applications, creating engaging games, and exploring the intersection of cybersecurity and software development.
+
+---
+
+## 🌐 My Website
+
+> **Check out my personal portfolio for a full showcase of my projects, skills, and background.**
+
+[![Visit Portfolio](https://img.shields.io/badge/🌐%20muhammadyahyajan.netlify.app-Visit%20Now-cyan?style=for-the-badge&logo=netlify&logoColor=white)](https://muhammadyahyajan.netlify.app/)
+
+Built with **React + Vite + Tailwind CSS** and deployed on **Netlify** — featuring projects, skills, and a hacker-style terminal card.
 
 ---
 
@@ -98,6 +111,7 @@ Comprehensive, beginner-friendly documentation of Kali Linux cybersecurity tools
 
 I'm always interested in discussing cybersecurity, game development, and innovative software solutions!
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00C7B7?style=flat&logo=netlify&logoColor=white)](https://muhammadyahyajan.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-yahya-jan-03b344325)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muhammadyahyajan001@gmail.com)
