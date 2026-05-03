@@ -79,16 +79,43 @@ Comprehensive, beginner-friendly documentation of Kali Linux cybersecurity tools
 
 ---
 
+### ✈️ [Airline Reservation System](https://github.com/MuhammadYahya001/Airline-Reservation-System)
+A fully functional Airline Reservation System built in C++, applying core Object-Oriented Programming principles.
+
+**Highlights:**
+- Flight search, booking, and cancellation workflows
+- Passenger and seat management with data persistence
+- Admin panel for managing flights and schedules
+- Clean modular architecture using OOP design patterns
+
+**Tech:** C++, OOP, File I/O, Data Structures
+
+---
+
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadYahya001&show_icons=true&theme=dark&hide_border=true)](https://github.com/MuhammadYahya001)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadYahya001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYahya001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYahya001&layout=compact&theme=dark&hide_border=true)](https://github.com/MuhammadYahya001)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MuhammadYahya001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadYahya001&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadYahya001&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
 ---
 
 ## 🎯 Currently Working On
 
+- ✈️ Enhancing the Airline Reservation System with additional features
 - 🔭 Expanding cybersecurity tool collection
 - 🌱 Exploring advanced game development techniques
 - 💡 Contributing to open-source security projects
