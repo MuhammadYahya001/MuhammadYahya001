@@ -99,7 +99,7 @@ A fully functional Airline Reservation System built in C++, applying core Object
 <!-- ─── Contribution Intelligence ──────────────────────────────────────── -->
 <div align="center">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadYahya001&theme=tokyonight)](https://github.com/MuhammadYahya001)
+
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadYahya001&theme=tokyonight" width="31%" />
 &nbsp;
