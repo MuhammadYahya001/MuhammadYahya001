@@ -124,8 +124,7 @@ A fully functional Airline Reservation System built in C++, applying core Object
           srcset="https://raw.githubusercontent.com/MuhammadYahya001/MuhammadYahya001/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/MuhammadYahya001/MuhammadYahya001/output/github-snake.svg" />
-  <img alt="contribution snake animation"
-       src="https://raw.githubusercontent.com/MuhammadYahya001/MuhammadYahya001/output/github-snake-dark.svg" />
+ 
 </picture>
 
 </div>
