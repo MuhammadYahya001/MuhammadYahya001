@@ -92,24 +92,57 @@ A fully functional Airline Reservation System built in C++, applying core Object
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadYahya001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadYahya001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-</p>
+<!-- ─── Core Metrics ─────────────────────────────────────────────────────── -->
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammadYahya001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=MuhammadYahya001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Overview" />
+&nbsp;
+<img height="195px" src="https://streak-stats.demolab.com?user=MuhammadYahya001&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadYahya001&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadYahya001&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+<!-- ─── Contribution Intelligence ──────────────────────────────────────── -->
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadYahya001&theme=tokyonight)](https://github.com/MuhammadYahya001)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadYahya001&theme=tokyonight" width="31%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadYahya001&theme=tokyonight" width="31%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadYahya001&theme=tokyonight&utcOffset=5" width="31%" />
+
+</div>
+
+<!-- ─── Commit Activity Timeline ───────────────────────────────────────── -->
+<div align="center">
+
+[![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadYahya001&bg_color=1a1b27&color=628fda&line=38bcf8&point=a9fef7&area=true&area_color=1e3a5f&hide_border=true&custom_title=Commit%20Activity%20%7C%20Rolling%2031-Day%20Window)](https://github.com/MuhammadYahya001)
+
+</div>
+
+<!-- ─── Contribution Snake ──────────────────────────────────────────────── -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/MuhammadYahya001/MuhammadYahya001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/MuhammadYahya001/MuhammadYahya001/output/github-snake.svg" />
+  <img alt="contribution snake animation"
+       src="https://raw.githubusercontent.com/MuhammadYahya001/MuhammadYahya001/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<!-- ─── Achievement Vault ──────────────────────────────────────────────── -->
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadYahya001&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
