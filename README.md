@@ -94,14 +94,7 @@ A fully functional Airline Reservation System built in C++, applying core Object
 
 ## 📊 GitHub Analytics
 
-<!-- ─── Core Metrics ─────────────────────────────────────────────────────── -->
-<div align="center">
 
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=MuhammadYahya001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Overview" />
-&nbsp;
-<img height="195px" src="https://streak-stats.demolab.com?user=MuhammadYahya001&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-</div>
 
 <!-- ─── Contribution Intelligence ──────────────────────────────────────── -->
 <div align="center">
