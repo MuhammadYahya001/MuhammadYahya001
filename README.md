@@ -1,182 +1,76 @@
-# 👋 Hi, I'm Muhammad Yahya
+# Muhammad Yahya — Cybersecurity & AI Engineer
 
-**Cybersecurity Enthusiast | Cloud Practitioner | Full-Stack Developer**
+**Building secure systems, network defense labs, and practical AI-powered security tooling.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-cyan?style=flat-square&logo=vercel)](https://muhammadyahya-portfolio.vercel.app/)
-
-Welcome to my GitHub! I'm passionate about building secure applications, creating engaging games, and exploring the intersection of cybersecurity and software development.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://muhammadyahya-portfolio.vercel.app/)
 
 ---
 
-## 🚀 What I Do
+## About Me
+I focus on cybersecurity engineering, secure network architecture, and AI-assisted security workflows. My work emphasizes practical implementation, hardening, and measurable validation.
 
-- 🔒 **Cybersecurity** - Developing security tools and analyzing vulnerabilities
-- 🎮 **Game Development** - Building interactive experiences with C++ and game engines
-- 💻 **Software Development** - Creating practical tools and solutions
-- 📚 **Security Education** - Sharing knowledge through detailed documentation
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Tools & Frameworks:**  
-![SFML](https://img.shields.io/badge/-SFML-028C3A?style=flat&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-
-**Specializations:**  
-- Network Security & Penetration Testing
-- Game Development & OOP
-- Secret Detection & Code Analysis
-- Cybersecurity Tools Development
+## Key Skills & Tools
+- **Cybersecurity:** Network segmentation, access control, secure device management, threat detection, security tooling
+- **Network Engineering:** VLANs, HSRP, OSPF, eBGP, ACLs, NAT/PAT, DHCP snooping, enterprise troubleshooting
+- **AI & ML:** Applied ML, heuristic detection systems, LLM-integrated workflow design, model evaluation
+- **Stack:** Python, C++, JavaScript, Linux, Kali Linux, Streamlit, Git, Cisco Packet Tracer
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🎮 [Cuphead-Inspired Game](https://github.com/MuhammadYahya001/Cuphead-Game)
-A full-featured run-and-gun platformer built with C++ and SFML, showcasing advanced OOP concepts and game mechanics.
+### 🛡️ [Enterprise Network Design (Cisco Packet Tracer)](https://github.com/MuhammadYahya001/enterprise-network-design-packet-tracer)
+Professional multi-site enterprise network implementation focused on security, resilience, and operational validation. Delivered end-to-end VLAN segmentation, HSRP gateway redundancy, OSPF/eBGP routing, ACL policy enforcement, SSH hardening, DHCP snooping, NAT/PAT services, and troubleshooting-backed validation across head office and branch environments.
 
-**Highlights:**
-- Complex boss fight AI with multiple phases
-- Parry mechanics and card system
-- Dynamic enemy spawning
-- Hand-drawn 2D sprite animations
+### 🔐 [PhishGuard Lite](https://github.com/MuhammadYahya001/phishguard-lite)
+AI-assisted phishing analysis tool that classifies emails by risk using security heuristics and URL intelligence.
+- Streamlit-based analyst workflow for rapid triage
+- Risk scoring with transparent detection reasons
+- Practical demonstration of AI + cybersecurity integration
 
-**Tech:** C++, SFML, OOP Design Patterns
+### 🔎 [Code Secret Finder](https://github.com/MuhammadYahya001/code-secret-finder)
+Python security scanner for detecting exposed credentials and sensitive tokens in source code.
+- File/folder scanning for secret leakage exposure
+- JSON export for audit and remediation workflows
+- Lightweight CLI design for developer security checks
 
----
+### 🤖 [Business Research Assistant (Multi-Agent)](https://github.com/MuhammadYahya001/business-research-assistant)
+Multi-agent AI system for structured research with validation and synthesis stages.
+- Agent orchestration with clarity/research/validator/synthesis pipeline
+- Confidence-aware outputs and quality-gate loopback logic
+- Strong foundation for AI-assisted analyst tooling
 
-### 🔐 [Code Secret Finder](https://github.com/MuhammadYahya001/code-secret-finder)
-A Python-based cybersecurity tool that detects exposed secrets (API keys, tokens, passwords) in source files.
+### 🧠 [Multilayer Perceptron on MNIST (From Scratch)](https://github.com/MuhammadYahya001/multilayer-perceptron-mnist)
+From-scratch neural network implementation and training pipeline using pure NumPy.
+- Manual forward/backprop derivations mapped to executable implementation
+- 95%+ MNIST accuracy with reproducible notebook workflow
+- Demonstrates strong ML fundamentals for applied AI security use cases
 
-**Highlights:**
-- Folder and single-file scanning
-- Colorful output with `rich` library
-- JSON export for analysis
-- Lightweight and production-ready
+## Cybersecurity Learning Resources
+- 📘 [Kali Linux Toolkit Notes](https://github.com/MuhammadYahya001/kali-linux-toolkit-notes) — Practical notes for Nmap, Wireshark, Burp Suite, and security testing workflows.
 
-**Tech:** Python, Security Analysis, CLI Tools
-
----
-
-### 📖 [Kali Linux Toolkit Notes](https://github.com/MuhammadYahya001/kali-linux-toolkit-notes)
-Comprehensive, beginner-friendly documentation of Kali Linux cybersecurity tools with real-world examples.
-
-**Highlights:**
-- Nmap, Wireshark, Burp Suite tutorials
-- Practical security testing scenarios
-- Student-focused explanations
-- Growing resource library
-
-**Tech:** Documentation, Cybersecurity Tools, Education
+## Game Development (Secondary)
+- Built a Cuphead-inspired C++/SFML game project as an OOP-focused academic build.
 
 ---
 
-### ✈️ [Airline Reservation System](https://github.com/MuhammadYahya001/Airline-Reservation-System)
-A fully functional Airline Reservation System built in C++, applying core Object-Oriented Programming principles.
+## GitHub Analytics
 
-**Highlights:**
-- Flight search, booking, and cancellation workflows
-- Passenger and seat management with data persistence
-- Admin panel for managing flights and schedules
-- Clean modular architecture using OOP design patterns
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadYahya001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadYahya001&theme=tokyonight" height="170" alt="GitHub streak" />
+</div>
 
-**Tech:** C++, OOP, File I/O, Data Structures
-
----
-
-## 📊 GitHub Analytics
-
-
-
-<!-- ─── Contribution Intelligence ──────────────────────────────────────── -->
 <div align="center">
 
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadYahya001&theme=tokyonight" width="31%" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadYahya001&theme=tokyonight" width="31%" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadYahya001&theme=tokyonight&utcOffset=5" width="31%" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadYahya001&bg_color=1a1b27&color=628fda&line=38bcf8&point=a9fef7&area=true&hide_border=true)](https://github.com/MuhammadYahya001)
 
 </div>
 
-<!-- ─── Commit Activity Timeline ───────────────────────────────────────── -->
-<div align="center">
-
-[![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadYahya001&bg_color=1a1b27&color=628fda&line=38bcf8&point=a9fef7&area=true&area_color=1e3a5f&hide_border=true&custom_title=Commit%20Activity%20%7C%20Rolling%2031-Day%20Window)](https://github.com/MuhammadYahya001)
-
-</div>
-
-<!-- ─── Contribution Snake ──────────────────────────────────────────────── -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/MuhammadYahya001/MuhammadYahya001/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/MuhammadYahya001/MuhammadYahya001/output/github-snake.svg" />
- 
-</picture>
-
-</div>
-
-
-
 ---
 
-## 🎯 Currently Working On
-
-- ✈️ Enhancing the Airline Reservation System with additional features
-- 🔭 Expanding cybersecurity tool collection
-- 🌱 Exploring advanced game development techniques
-- 💡 Contributing to open-source security projects
-- 📝 Growing educational resources for aspiring developers
-
----
-
-## 💬 Let's Connect
-
-I'm always interested in discussing cybersecurity, game development, and innovative software solutions!
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00C7B7?style=flat&logo=vercel&logoColor=white)](https://muhammadyahya-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-yahya-jan-03b344325)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/yahya_jan001)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muhammadyahyajan001@gmail.com)
-
----
-
-## 📈 My Goals
-
-- Build industry-standard security tools
-- Create engaging educational content
-- Collaborate on open-source projects
-- Master game development at scale
-
----
-
-**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!** 🚀
-
-
-<!--
-**MuhammadYahya001/MuhammadYahya001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-yahya-jan-03b344325)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://muhammadyahya-portfolio.vercel.app/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/yahya_jan001)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadyahyajan001@gmail.com)
